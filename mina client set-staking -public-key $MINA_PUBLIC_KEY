@@ -1,0 +1,27 @@
+mina client status
+
+Mina daemon status
+-----------------------------------
+
+Global number of accounts:  372
+Block height:               20
+Max observed block length:  20
+Local uptime:               1m48s
+Ledger Merkle root:         ...
+Protocol state hash:        ...
+Staged Hash:                ...
+Git SHA-1:                  ...
+Configuration directory:    ...
+Peers:                      5 (...)
+User_commands sent:         0
+SNARK worker:               None
+SNARK work fee:             1
+Sync status:                Synced
+Block producers running:    1 (...)
+Best tip consensus time:    epoch=0, slot=133
+Next proposal:              None this epoch… checking at in 5.284h
+Consensus time now:         epoch=0, slot=134
+Consensus mechanism:        proof_of_stake
+Consensus configuration:    ...
+Addresses and ports:        ...
+Libp2p PeerID:              ...
